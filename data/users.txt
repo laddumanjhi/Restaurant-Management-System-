@@ -1,0 +1,7 @@
+kajalmanjhi,laddu@123
+doremi,codex,veer
+codex,codex@123,veer
+veer,veer1234
+laddu,laddu@123
+kajal,manjhi@123
+kk,123
